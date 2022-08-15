@@ -1,0 +1,1 @@
+CREATE VIEW dbo.test AS SELECT 1
